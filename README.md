@@ -1,11 +1,3 @@
-# BusTracking
-Created with CodeSandbox
-
-
-Great! Here's a clean and complete `README.md` documentation for your **OnRoute** project, ready to copy and use on GitHub or any platform:
-
----
-
 # 🚌 OnRoute – Live Bus Tracking & Booking Made Easy
 
 **OnRoute** is a modern, intuitive web app that lets users track buses live, book tickets, and manage their journey — all from their browser. Designed for simplicity and speed, it simulates the experience of a real bus booking platform.
@@ -26,7 +18,7 @@ Great! Here's a clean and complete `README.md` documentation for your **OnRoute*
 ## 📸 Screenshots
 
 ![Landing](https://github.com/user-attachments/assets/2d0d79e3-9ade-43b5-970c-d914a9b9b14e) |
-[Route](https://github.com/user-attachments/assets/8aafb330-8ff9-4950-97e4-1f4973aca686) |
+![Route](https://github.com/user-attachments/assets/8aafb330-8ff9-4950-97e4-1f4973aca686) |
 ![Bookings](https://github.com/user-attachments/assets/2564ddbf-83ca-40ee-8780-eb6388e036d2) |
 
 ---
